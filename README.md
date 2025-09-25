@@ -1,6 +1,6 @@
 # EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
-## Name: ABHINESWAR REDDY K
-## Reg num:212223040084
+## Name: BHARANI KUMAR J
+## Reg num:212224240024
 # Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
